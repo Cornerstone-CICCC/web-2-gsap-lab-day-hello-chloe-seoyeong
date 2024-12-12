@@ -54,7 +54,7 @@ const section4Timeline = gsap.timeline({
     trigger: ".section4",
     start: "bottom 40%",
     end: "bottom 70%",
-    markers: true,
+    // markers: true,
     toggleActions: "play none reverse none"
   }
 })
